@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naej2004
 - 👀 I’m interested in Robotic and AI
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
